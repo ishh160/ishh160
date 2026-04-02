@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Master’s student in Data Science with experience in building machine learning models and data-driven applications<br><br>🤝 Open to collaborating on: Data science and ML projects with real-world impact<br><br>🫶 Interested in: Model explainability, analytics, and solving business problems using data<br><br>🌱 Currently exploring: Scalable ML systems and production-ready data pipelines<br><br>💬 Ask me about: Python, SQL, machine learning, and data visualization<br><br>⚡ Fun fact: I enjoy turning complex, messy data into clear and useful insights
+🎓 Data Science Graduate with experience in building machine learning models and data-driven applications<br><br>🤝 Open to collaborating on: Data science and ML projects with real-world impact<br><br>🫶 Interested in: Model explainability, analytics, and solving business problems using data<br><br>🌱 Currently exploring: Scalable ML systems and production-ready data pipelines<br><br>💬 Ask me about: Python, SQL, machine learning, and data visualization<br><br>⚡ Fun fact: I enjoy turning complex, messy data into clear and useful insights
 
 
 ## 🌐 Socials:
