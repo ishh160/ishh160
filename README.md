@@ -90,6 +90,20 @@ Semi-automated job search and application workflow with multi-source scraping, s
 ![Stripe](https://img.shields.io/badge/Stripe-A8D5BA?style=flat-square&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-A8D5BA?style=flat-square&logo=vercel&logoColor=white)
 
+### Core Expertise
+
+**Data Science & ML**
+Python, SQL, Pandas, NumPy, Scikit-learn, PyTorch, XGBoost, SHAP, AIF360 (fairness auditing), Matplotlib, Seaborn
+
+**Backend & APIs**
+FastAPI, PostgreSQL, Supabase, Claude API, RESTful architecture, authentication (Google OAuth)
+
+**Frontend**
+React, Vite, Tailwind CSS, JavaScript, responsive design
+
+**Tools & Deployment**
+Git, Docker, Railway, Vercel, Stripe integration, Apify, Google Cloud
+
 ---
 
 ## GitHub Stats
@@ -98,7 +112,7 @@ Semi-automated job search and application workflow with multi-source scraping, s
 
 ![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishh160&theme=calm&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2d5a3d&text_color=2d5a3d)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishh160&theme=calm&hide_border=true&layout=compact&bg_color=ffffff&title_color=2d5a3d&text_color=2d5a3d)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishh160&theme=calm&hide_border=true&layout=compact&hide=jupyter%20notebook&bg_color=ffffff&title_color=2d5a3d&text_color=2d5a3d)
 
 </div>
 
