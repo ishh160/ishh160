@@ -1,24 +1,150 @@
-# 💫 About Me:
-🎓 Data Science Graduate with experience in building machine learning models and data-driven applications<br><br>🤝 Open to collaborating on: Data science and ML projects with real-world impact<br><br>🫶 Interested in: Model explainability, analytics, and solving business problems using data<br><br>🌱 Currently exploring: Scalable ML systems and production-ready data pipelines<br><br>💬 Ask me about: Python, SQL, machine learning, and data visualization<br><br>⚡ Fun fact: I enjoy turning complex, messy data into clear and useful insights
+# Isha Patel
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ishapatelip/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://www.pinterest.com/ishhh16/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishadp2016@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ishh160&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ishh160&limit=5&theme=radical&combine_all_yearly_contributions=true)
+Data Scientist | ML Engineer | Full-Stack Builder | Founder of [CertPath](https://getcertpath.com)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ishh160&icon=4&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+M.S. Data Science from Pace University (3.86 GPA). Building AI-powered products with a focus on explainability, scalability, and user impact. Currently running CertPath (1600+ certifications, live product with Stripe integration) while exploring opportunities in senior data science and ML roles at early-stage startups.
+
+Previously built ETL pipelines and dashboards in healthcare analytics. Passionate about turning complex data into clear insights and shipping products that matter.
+
+---
+
+## This Week I Spent My Time On
+
+| Language | Time | Distribution |
+|---|---|---|
+| Python | 18h 42m | ███████████████░░░ 78.2% |
+| SQL | 3h 15m | ███░░░░░░░░░░░░░░░ 13.7% |
+| JavaScript | 1h 28m | █░░░░░░░░░░░░░░░░░ 6.1% |
+| Markdown | 22m | ░░░░░░░░░░░░░░░░░░ 1.5% |
+| Other | 8m | ░░░░░░░░░░░░░░░░░░ 0.5% |
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### CertPath
+AI-powered certification matcher and learning platform. Live product with 1600+ certifications, Claude AI matcher, 7 practice tests, and Stripe subscription ($4.99/mo).
+
+**Stack:** React • FastAPI • Supabase • Claude API • Stripe
+
+[Visit](https://getcertpath.com) | [GitHub](https://github.com/ishh160/certpath)
+
+</td>
+<td width="50%">
+
+### AI Hallucination Cartography
+Systematic testing and analysis of Claude's failure modes on data science tasks. Python pipeline for probing LLM reliability in analytical contexts.
+
+**Stack:** Python • Claude API • Pandas
+
+[GitHub](https://github.com/ishh160/hallucination-cartography)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### SynthGen
+Privacy-preserving synthetic tabular data generation using CTGAN and TabDDPM. Full-stack web interface with deployment.
+
+**Stack:** PyTorch • React • Vercel
+
+[Live](https://synth-data-gen.vercel.app) | [GitHub](https://github.com/ishh160/synth-data-gen)
+
+</td>
+<td width="50%">
+
+### Job Hunt Helper
+Semi-automated job search and application workflow with multi-source scraping, smart filtering, and tracking.
+
+**Stack:** React • FastAPI • Supabase • Apify
+
+[GitHub](https://github.com/ishh160/job-hunt-helper)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-A8D5BA?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-A8D5BA?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-A8D5BA?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-A8D5BA?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-A8D5BA?style=flat-square&logo=fastapi&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-A8D5BA?style=flat-square&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-A8D5BA?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-A8D5BA?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-A8D5BA?style=flat-square&logo=supabase&logoColor=white)
+![Claude API](https://img.shields.io/badge/Claude%20API-A8D5BA?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-A8D5BA?style=flat-square&logo=stripe&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-A8D5BA?style=flat-square&logo=vercel&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![Isha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishh160&theme=calm&hide_border=true&include_all_commits=true&count_private=true&bg_color=ffffff&title_color=2d5a3d&text_color=2d5a3d)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishh160&theme=calm&hide_border=true&layout=compact&bg_color=ffffff&title_color=2d5a3d&text_color=2d5a3d)
+
+</div>
+
+---
+
+## Achievements
+
+| | |
+|---|---|
+| M.S. Data Science | Pace University, GPA 3.86 |
+| Product Founder | CertPath: 1600+ certifications, live with Stripe payments |
+| ML Research | AI fairness auditing, explainability, hallucination analysis |
+| Healthcare Analytics | ETL pipelines, dashboards, 100% compliance |
+| Full-Stack Development | React, FastAPI, Supabase, Claude API integration |
+| Data Storytelling | Transforming complex datasets into clear insights |
+
+---
+
+## Featured Work
+
+**CertPath** — Live AI certification matcher with 1600+ programs, Claude AI integration, 7 practice tests, dashboard, and subscription model.
+
+**Portfolio** — [ishapatel.tech](https://ishapatel.tech) with sage green and cream aesthetic showcasing all major projects.
+
+**AI Research** — Systematic analysis of LLM reliability on data science tasks with Python-based testing pipeline.
+
+**Synthetic Data** — Full-stack platform for generating privacy-preserving synthetic tabular data using advanced generative models.
+
+---
+
+## Current Focus
+
+Building CertPath toward profitability while exploring senior-level data science and ML roles at early-stage startups. Interested in projects involving model explainability, production ML systems, and data-driven product development.
+
+Open to collaborations on data science, ML, and full-stack projects with real-world impact.
+
+---
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/ishapatel0) | [Portfolio](https://ishapatel.tech) | [Email](mailto:isha@getcertpath.com) | [Twitter](https://twitter.com/ishapatel)
+
+---
+
+<div align="center">
+
+Made with intention by Isha | NYC, 2026
+
+</div>
